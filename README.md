@@ -1,4 +1,4 @@
-# ng2-typescript-boilerplate
+# ng2-typescript-boilerplate (DEVELOPING)
 
 <a href="https://travis-ci.org/CronixMicroSystems/ng2-typescript-boilerplate">
     <img src="https://travis-ci.org/CronixMicroSystems/ng2-typescript-boilerplate.svg?branch=master" alt="Build Status" />
