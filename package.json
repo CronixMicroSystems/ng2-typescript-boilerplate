@@ -96,6 +96,8 @@
     "webpack-dev-middleware": "^1.8.4",
     "webpack-dev-server": "^2.3.0",
     "webpack-hot-middleware": "^2.13.2",
-    "zone.js": "^0.8.5"
+    "zone.js": "^0.8.5",
+    "uglify-js": "git://github.com/mishoo/UglifyJS2#harmony",
+    "uglifyjs-webpack-plugin": "^0.4.3"
   }
 }
