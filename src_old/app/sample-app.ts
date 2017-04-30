@@ -23,7 +23,7 @@ import {SessionEpics} from '../epics/session.epics';
   selector: 'rio-sample-app',
   // Allow app to define global styles.
   encapsulation: ViewEncapsulation.None,
-  styles: [ require('../styles/index.css') ],
+  styles: [ require('../styles/index.scss') ],
   template: require('./sample-app.html')
 })
 export class RioSampleApp {
